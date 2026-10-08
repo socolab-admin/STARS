@@ -8,31 +8,32 @@ The primary questions are:
 2. Does loneliness moderate responses to social feedback?
 3. Do features of participants’ social networks, including friendship ties and perceived closeness, moderate these responses?
 
-The project consists of 3 datasets collected during the development and implementation of the Ostracism Online paradigm (Wolf et al., 2015).
+The project consists of 3 datasets collected during the implementation of the Ostracism Online paradigm (Wolf et al., 2015).
 
 ## Datasets
 
 ### Profile Creation with Bio Generations (N = 100)
 
-Participants created profiles for an online game in which they expected to get to know other people in their age group. They selected an avatar that they felt represented them and wrote a short biography of 250–400 characters introducing themselves to the group.
+Participants created profiles for an online game in which they expected to get to know other people in their age group. They selected an avatar that they felt represented them and wrote a short biography of 250-400 characters introducing themselves to the group.
 
-13 profiles were selected from this dataset for use as player profiles in the subsequent studies, which can be found under the selected bios dataset.
+13 profiles were selected from this dataset for use as player profiles in the subsequent studies, which can be found under the selected bios dataset in this repository.
 
 ### Ostracism Online Task: Single Condition (N = 90)
 
-Dataset 2 contains data from the first implementation of the Ostracism Online study. Participants completed social-network and individual-difference measures. Next, they were made to believe they were going to test an online platform with other people around their age, where they will create a profile for themselves and see the responses of others. In this website, participants chose an avatar and wrote a short bio for their profiles, viewed profiles belonging to supposed other players, and had opportunities to give likes to others' profiles. Participants also got notifications when they would receive likes. On this task, participants received approximately the same number of likes as an average player (5). 
+Contains data from the first implementation of the Ostracism Online study. Participants completed social-network and individual-difference measures. Next, they were made to believe they were going to test an online platform with other people around their age, where they will create a profile for themselves and see the responses of others. In this website, participants chose an avatar and wrote a short bio for their profiles, viewed profiles belonging to supposed other players, and had opportunities to give likes to others' profiles. Participants also got notifications when they would receive likes. On this task, participants received approximately the same number of likes as an average player (5). 
 
 After the task, participants reported how they felt following the interaction. All participants completed this control condition.
 
 ### Ostracism Online Task: Control and Ostracism Conditions (N = 184) 
 
-Dataset 3 contains data from a revised version of the study that included two social-feedback conditions:
+Contains data from a revised version of the study that included two conditions:
 
 - **Control:** Participants received approximately the same number of likes as an average player (5).
 - **Ostracism:** Participants received fewer likes than the average player (1).
 
-Participants otherwise completed a similar procedure to Dataset 2, including the social-network and individual-difference measures, profile creation, liking task, social feedback, and post-feedback measures. 
-In this version of the study, participants also completed a shared reality task to study the saying-is-believing effect. Participants learned about a supposed other (Michael) and were asked to explain this individual to someone else that either liked them (SamCond = 1) or did not (-1). 
+Participants otherwise completed a similar procedure to above, including the social-network and individual-difference measures, profile creation, liking task, social feedback, and post-feedback measures. 
+
+In this version of the study, participants also completed a shared reality task to study the saying-is-believing effect. Participants learned about a supposed other (Michael) and were asked to explain this individual to someone else that either liked them (SamCond = 1) or did not (SamCond = -1). 
 
 ## Measures and Materials
 
