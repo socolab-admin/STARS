@@ -59,6 +59,9 @@ All shared data have been deidentified and are intended for use by approved rese
 
 Because participant profiles include free-text biographies, these responses should be treated as potentially sensitive and handled in accordance with the project’s data-protection requirements.
 
+## Authors
+Babür, Begüm G. & Baek, Elisa C.
+
 ## References 
 Aron, A., Aron, E. N., & Smollan, D. (1992). Inclusion of other in the self scale and the structure of interpersonal closeness. Journal of Personality and Social Psychology, 63(4), 596-612.
 
